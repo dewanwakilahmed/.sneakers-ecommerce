@@ -410,6 +410,7 @@ label {
 
 footer {
   display: flex;
+  background-color: whitesmoke;
 }
 
 .footerLeft {
