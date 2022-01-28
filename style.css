@@ -29,15 +29,19 @@ nav {
 
 .search {
   display: flex;
+  gap: 7.5px;
   align-items: center;
   background-color: gray;
-  padding: 10px 20px;
+  padding: 10px 15px;
   border-radius: 10px;
 }
 
 .searchInput {
   border: none;
   background-color: transparent;
+  font-size: 16px;
+  color: white;
+  padding: 5px 7.5px;
 }
 
 .searchInput::placeholder {
